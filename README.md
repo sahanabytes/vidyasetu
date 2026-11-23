@@ -87,7 +87,7 @@ The platform brings textbook learning, practice activities, learning progress an
 
 To make quality education accessible, inclusive and understandable for every student, regardless of their language or learning pace.
 
-## 👩‍💻 Team VidyaSetu
+## 👩‍💻 Team Vidyaverse
 
 1. **Loya Sowmya**
 2. **Sahanashree M**
